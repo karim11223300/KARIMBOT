@@ -1,1 +1,1 @@
-web: python3 karim.py
+web: python3 app.py & python3 kero.py
