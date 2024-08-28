@@ -1,1 +1,1 @@
-gunicorn your_app_name:app
+worker: python karim.py
